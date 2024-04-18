@@ -1,0 +1,43 @@
+Metric,Value,Model
+MSE,6525.938608217359,Linear Regression
+RMSE,80.78328173711043,Linear Regression
+R-squared,0.5843020944544617,Linear Regression
+Explained Variance,0.585009384274531,Linear Regression
+Max Error,379.55820706443103,Linear Regression
+Median Absolute Error,42.68973701089158,Linear Regression
+MSE,12748.575715209021,Decision Tree
+RMSE,112.90959089115955,Decision Tree
+R-squared,0.18792429079427975,Decision Tree
+Explained Variance,0.19261916126881684,Decision Tree
+Max Error,816.45,Decision Tree
+Median Absolute Error,41.67899425287342,Decision Tree
+MSE,15229.559185734592,K-Nearest Neighbors
+RMSE,123.40810016256872,K-Nearest Neighbors
+R-squared,0.029887310321933036,K-Nearest Neighbors
+Explained Variance,0.04232150993869821,K-Nearest Neighbors
+Max Error,592.1688888888889,K-Nearest Neighbors
+Median Absolute Error,76.45666666666665,K-Nearest Neighbors
+MSE,6518.5876231716,Ridge Regression
+RMSE,80.73777073446851,Ridge Regression
+R-squared,0.5847703472638539,Ridge Regression
+Explained Variance,0.5854637650225942,Ridge Regression
+Max Error,379.5564897968495,Ridge Regression
+Median Absolute Error,42.80981282220142,Ridge Regression
+MSE,9170.839628925718,Extra Tree Regression
+RMSE,95.76450088067978,Extra Tree Regression
+R-squared,0.41582367614705174,Extra Tree Regression
+Explained Variance,0.4263269230104171,Extra Tree Regression
+Max Error,750.5800000000002,Extra Tree Regression
+Median Absolute Error,46.74516483516493,Extra Tree Regression
+MSE,17658.592409598656,Random Forest Regression
+RMSE,132.8856365812297,Random Forest Regression
+R-squared,0.9420160476399145,Random Forest Regression
+Explained Variance,0.9421722817230989,Random Forest Regression
+Max Error,418.53994032987475,Random Forest Regression
+Median Absolute Error,67.53156303252285,Random Forest Regression
+MSE,21274.994395741367,Bagging Regression
+RMSE,145.8595022469958,Bagging Regression
+R-squared,0.930141189462349,Bagging Regression
+Explained Variance,0.9305896934770475,Bagging Regression
+Max Error,694.5338000000002,Bagging Regression
+Median Absolute Error,82.49640000000002,Bagging Regression

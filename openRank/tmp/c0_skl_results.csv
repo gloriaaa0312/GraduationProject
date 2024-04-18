@@ -1,0 +1,43 @@
+Metric,Value,Model
+MSE,68134.92683964291,Linear Regression
+RMSE,261.0266784059494,Linear Regression
+R-squared,0.7762713890049203,Linear Regression
+Explained Variance,0.7978956751959241,Linear Regression
+Max Error,633.7552800831161,Linear Regression
+Median Absolute Error,161.14296406889508,Linear Regression
+MSE,38730.31652684545,Decision Tree
+RMSE,196.80019442786494,Decision Tree
+R-squared,0.87282469767166,Decision Tree
+Explained Variance,0.8728721995165596,Decision Tree
+Max Error,638.8699099099103,Decision Tree
+Median Absolute Error,102.14500000000015,Decision Tree
+MSE,229880.10075661042,K-Nearest Neighbors
+RMSE,479.4581324334904,K-Nearest Neighbors
+R-squared,0.2451631193685896,K-Nearest Neighbors
+Explained Variance,0.2512908138301113,K-Nearest Neighbors
+Max Error,1631.4300000000003,K-Nearest Neighbors
+Median Absolute Error,221.15444444444438,K-Nearest Neighbors
+MSE,68133.98348724205,Ridge Regression
+RMSE,261.02487139589215,Ridge Regression
+R-squared,0.7762744866074586,Ridge Regression
+Explained Variance,0.7978978617971209,Ridge Regression
+Max Error,633.7585881745993,Ridge Regression
+Median Absolute Error,161.13831675420641,Ridge Regression
+MSE,52841.78997765974,Extra Tree Regression
+RMSE,229.87342164256341,Extra Tree Regression
+R-squared,0.8264881049623873,Extra Tree Regression
+Explained Variance,0.8269493411515352,Extra Tree Regression
+Max Error,737.1699999999998,Extra Tree Regression
+Median Absolute Error,131.53823529411767,Extra Tree Regression
+MSE,17660.79275284524,Random Forest Regression
+RMSE,132.89391540941685,Random Forest Regression
+R-squared,0.9420088225681179,Random Forest Regression
+Explained Variance,0.9426511845407559,Random Forest Regression
+Max Error,442.1358979126146,Random Forest Regression
+Median Absolute Error,74.92195565163195,Random Forest Regression
+MSE,20990.934005908748,Bagging Regression
+RMSE,144.88248343367374,Bagging Regression
+R-squared,0.9310739333486902,Bagging Regression
+Explained Variance,0.9317533582335319,Bagging Regression
+Max Error,579.8225999999997,Bagging Regression
+Median Absolute Error,68.70739999999984,Bagging Regression

@@ -1,0 +1,7 @@
+Metric,Value,Model
+MSE,4319.567131816287,CatBoost
+RMSE,65.72341387828456,CatBoost
+R-squared,0.9413252277022589,CatBoost
+Explained Variance,0.9465574738551181,CatBoost
+Max Error,466.06424780274216,CatBoost
+Median Absolute Error,31.611098734144377,CatBoost

@@ -1,0 +1,73 @@
+Metric,Value,Model
+MSE,13740.816780851657,Linear Regression
+RMSE,117.22123007736977,Linear Regression
+R-squared,0.8133518310520056,Linear Regression
+Explained Variance,0.8179275040981717,Linear Regression
+Max Error,562.5502768972799,Linear Regression
+Median Absolute Error,59.358480224930204,Linear Regression
+MSE,12430.24766795412,Decision Tree
+RMSE,111.49102057095952,Decision Tree
+R-squared,0.8311539260150214,Decision Tree
+Explained Variance,0.8319252758314257,Decision Tree
+Max Error,706.6140579710149,Decision Tree
+Median Absolute Error,46.44499999999999,Decision Tree
+MSE,69287.35730486647,K-Nearest Neighbors
+RMSE,263.22491771271666,K-Nearest Neighbors
+R-squared,0.05883627018297055,K-Nearest Neighbors
+Explained Variance,0.07740114814328347,K-Nearest Neighbors
+Max Error,2134.5955555555556,K-Nearest Neighbors
+Median Absolute Error,82.64888888888889,K-Nearest Neighbors
+MSE,13736.867945263208,Ridge Regression
+RMSE,117.2043853499655,Ridge Regression
+R-squared,0.8134054699982062,Ridge Regression
+Explained Variance,0.8180014377365944,Ridge Regression
+Max Error,563.0153309397865,Ridge Regression
+Median Absolute Error,59.22359437430511,Ridge Regression
+MSE,15666.838292379041,Extra Tree Regression
+RMSE,125.16724129091861,Extra Tree Regression
+R-squared,0.7871897480976651,Extra Tree Regression
+Explained Variance,0.7872783878206724,Extra Tree Regression
+Max Error,1108.0762499999992,Extra Tree Regression
+Median Absolute Error,53.91491534787832,Extra Tree Regression
+MSE,13740.816780851657,Linear Regression
+RMSE,117.22123007736977,Linear Regression
+R-squared,0.8133518310520056,Linear Regression
+Explained Variance,0.8179275040981717,Linear Regression
+Max Error,562.5502768972799,Linear Regression
+Median Absolute Error,59.358480224930204,Linear Regression
+MSE,12430.24766795412,Decision Tree
+RMSE,111.49102057095952,Decision Tree
+R-squared,0.8311539260150214,Decision Tree
+Explained Variance,0.8319252758314257,Decision Tree
+Max Error,706.6140579710149,Decision Tree
+Median Absolute Error,46.44499999999999,Decision Tree
+MSE,69287.35730486647,K-Nearest Neighbors
+RMSE,263.22491771271666,K-Nearest Neighbors
+R-squared,0.05883627018297055,K-Nearest Neighbors
+Explained Variance,0.07740114814328347,K-Nearest Neighbors
+Max Error,2134.5955555555556,K-Nearest Neighbors
+Median Absolute Error,82.64888888888889,K-Nearest Neighbors
+MSE,13736.867945263208,Ridge Regression
+RMSE,117.2043853499655,Ridge Regression
+R-squared,0.8134054699982062,Ridge Regression
+Explained Variance,0.8180014377365944,Ridge Regression
+Max Error,563.0153309397865,Ridge Regression
+Median Absolute Error,59.22359437430511,Ridge Regression
+MSE,15666.838292379041,Extra Tree Regression
+RMSE,125.16724129091861,Extra Tree Regression
+R-squared,0.7871897480976651,Extra Tree Regression
+Explained Variance,0.7872783878206724,Extra Tree Regression
+Max Error,1108.0762499999992,Extra Tree Regression
+Median Absolute Error,53.91491534787832,Extra Tree Regression
+MSE,5968.624134419609,Random Forest Regression
+RMSE,77.25687111461096,Random Forest Regression
+R-squared,0.9189252878052581,Random Forest Regression
+Explained Variance,0.9197571873267201,Random Forest Regression
+Max Error,664.448548438043,Random Forest Regression
+Median Absolute Error,37.702804246930924,Random Forest Regression
+MSE,5531.674132491588,Bagging Regression
+RMSE,74.37522526010653,Bagging Regression
+R-squared,0.924860591294301,Bagging Regression
+Explained Variance,0.9264692054824891,Bagging Regression
+Max Error,696.1488000000002,Bagging Regression
+Median Absolute Error,32.853099999999955,Bagging Regression
